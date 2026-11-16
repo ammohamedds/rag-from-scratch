@@ -1,0 +1,24 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+Rag_from_scratch/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# Data files (keep the folder, but do not upload its contents)
+data/*
+!data/.gitkeep
+
+# Log files
+*.log

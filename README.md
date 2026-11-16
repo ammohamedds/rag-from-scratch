@@ -597,7 +597,7 @@ python -m pip install ollama numpy
 python main.py
 ```
 
-*The command assumes your application entry point is named `main.py`.*
+*The command assumes your application entry point is named `rag.py`.*
 
 ---
 
